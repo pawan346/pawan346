@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./banner.png" alt="Pawan Theekshana Banner" width="100%">
+</div>
+
+<br><div align="center">
 
 # 👋 Hi, I'm Pawan Theekshana!
 
